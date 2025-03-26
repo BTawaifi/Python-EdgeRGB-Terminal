@@ -24,16 +24,16 @@ A Python script that renders moving RGB lights along the edges of your computer 
 
 1.  **Clone or Download:**
     ```bash
-    git clone https://github.com/your-username/Python-EdgeRGB-Terminal.git
+    git clone https://github.com/BTawaifi/Python-EdgeRGB-Terminal.git
     cd Python-EdgeRGB-Terminal
     ```
     Or download the ZIP file and extract it.
 
 2.  **Install Dependencies:**
     ```bash
+    pip install tkinter
     pip install screeninfo
     ```
-    *(Optional: You could create a `requirements.txt` file containing `screeninfo` and users could run `pip install -r requirements.txt`)*
 
 ## Usage
 
